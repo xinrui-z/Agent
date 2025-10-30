@@ -1,6 +1,6 @@
 # 🤖 Agent 系统学习路线
 
-by:Xinrui(https://github.com/xinrui-z.com)
+by:[Xinrui](https://github.com/xinrui-z.com)
 
 ---
 
